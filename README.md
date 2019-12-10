@@ -1,3 +1,7 @@
+# 该项目已迁移到：
+https://gitee.com/wuzhizhan/free-idea-mybatis
+
+
 [中文](README.md) | 
 [ENGLISH](README_EN.md)
 
